@@ -1,4 +1,4 @@
-id,location, decimalLongitude, decimalLatitude
+locationId,location, decimalLongitude, decimalLatitude
 1, Finca Esteban Cordero, -83.84320, 9.43039
 2, Finca de Victor, -83.85632, 9.43362
 3, Finca de Andrey y Sonia, -83.80704, 9.48405
@@ -8,4 +8,9 @@ id,location, decimalLongitude, decimalLatitude
 7, Finca de Errol Salazar, -83.70460, 9.53331
 8, Finca Martín Salazar, -83.71342, 9.54667
 9, Camino San Gerardo Los Ángeles, -83.59874, 9.46367
-10, Reserva Cloud Bridge, -83.57746, 9.34146
+10, Reserva Cloud Bridge, -83.57746, 9.47210
+11, Sendero Zaddy, -83.50421, 9.34146
+12, Sendero Ena, -83.49639, 9.36354
+13, Sendero Perica, -83.45692, 9.28686
+14, Guadalajara, -83.37892, 9.23980
+15, Sendero Mirador, -83.39225, 9.25712
