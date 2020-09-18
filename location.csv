@@ -1,30 +1,11 @@
-locationID,location, decimalLongitude, decimalLatitude
-1, Finca Esteban Cordero, -83.84320, 9.43039
-2, Finca de Victor, -83.85632, 9.43362
-3, Finca de Andrey y Sonia, -83.80704, 9.48405
-4, Finca de Rafael, -83.79451, 9.50930
-5, Sendero 3, -83.80604, 9.48670
-6, Finca Cosme Gamboa, -83.69381, 9.50198
-7, Finca de Errol Salazar, -83.70460, 9.53331
-8, Finca Martín Salazar, -83.71342, 9.54667
-9, Camino San Gerardo Los Ángeles, -83.59874, 9.46367
-10, Reserva Cloud Bridge, -83.57746, 9.47210
-11, Sendero Zaddy, -83.50421, 9.34146
-12, Sendero Ena, -83.49639, 9.36354
-13, Sendero Perica, -83.45692, 9.28686
-14, Guadalajara, -83.37892, 9.23980
-15, Sendero Mirador, -83.39225, 9.25712
-16, Ruta las aves, -83.37080, 9.27587
-17, Ujarrás, -83.30128, 9.23270
-18, Sendero Zapotal, -83.33883, 9.26302
-19, Sendero Parcelas, -83.11559, 9.08958
-20, Sendero Huacas, -83.06877, 9.11940
-21, Sendero 1, -83.05455, 9.02319
-22, Finca María Isabel, -83.03779, 9.03876
-23, Sendero Biolley, -83.04131, 9.03426
-24, Sendero Colorado, -83.02309, 9.01146
-25, Sendero Asoprola, -83.00901, 9.00549
-26, Sendero Cabagra, -83.19557, 9.13701
-27, Sendero Chánguena, -83.20337, 8.93879
-28, Sendero Pittier, -82.93996, 8.95203
-29, Sendero Tablas, -82.81732, 8.88802
+locationID,location,decimalLatitude,decimalLongitude
+AB-01 Altamira de Biolley-01,9.00549542, -83.0090092
+AV-02 Altamira de Volcán,9.28438765, -83.4516672
+AV-01 Altamira de Volcán,9.28729506, -83.4602387
+BI-01 Biolley,9.0231913, -83.0545614
+BI-02 Biolley,9.03876183, -83.037795
+BI-03 Biolley,9.03425048, -83.0413176
+CB-01 Cabagra,9.13279284, -83.2036868
+CB-03 Cabagra,9.12137815, -83.1557111
+CH-03 Chánguena,8.91894041, -83.2067085
+CH-01 Chánguena - Las Nubes,8.91168574, -83.163918
