@@ -9,6 +9,6 @@ conda install -c conda-forge gdal
 
 **Capas geoespaciales**
 ```shell
-# Descarga de la capa de cantones del IGN en el SNIT (https://www.snitcr.go.cr/)
+# Áreas silvestres protegidas (ASP)
 ogr2ogr -t_srs EPSG:4326 -makevalid asp.geojson WFS:"http://geos1pne.sirefor.go.cr/wfs?" "PNE:areas_silvestres_protegidas"
 ```
