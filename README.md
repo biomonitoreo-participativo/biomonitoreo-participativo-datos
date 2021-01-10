@@ -10,6 +10,7 @@ conda deactivate
 
 **Capas geoespaciales**
 ```shell
+# Activación del ambiente
 conda activate biomonitoreo-participativo-datos
 ```
 
@@ -19,5 +20,6 @@ ogr2ogr -t_srs EPSG:4326 -makevalid asp.geojson WFS:"http://geos1pne.sirefor.go.
 ```
 
 ```shell
+# Desactivación del ambiente
 conda deactivate
 ```
