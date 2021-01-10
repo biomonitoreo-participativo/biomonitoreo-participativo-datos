@@ -15,8 +15,8 @@ conda activate biomonitoreo-participativo-datos
 ```
 
 ```shell
-# Áreas silvestres protegidas (ASP)
-ogr2ogr -t_srs EPSG:4326 -makevalid asp.geojson WFS:"http://geos1pne.sirefor.go.cr/wfs?" "PNE:areas_silvestres_protegidas"
+# Áreas silvestres protegidas
+ogr2ogr -t_srs EPSG:4326 -makevalid areas-protegidas.geojson WFS:"http://geos1pne.sirefor.go.cr/wfs?" "PNE:areas_silvestres_protegidas"
 ```
 
 ```shell
