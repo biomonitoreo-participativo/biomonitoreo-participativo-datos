@@ -8,7 +8,7 @@ conda install -c conda-forge gdal
 conda deactivate
 ```
 
-**Capas geoespaciales**
+**Descarga y procesamiento de capas geoespaciales**
 ```shell
 # Activación del ambiente
 conda activate biomonitoreo-participativo-datos
