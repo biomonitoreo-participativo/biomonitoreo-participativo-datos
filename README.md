@@ -20,6 +20,11 @@ ogr2ogr -t_srs EPSG:4326 -makevalid areas-protegidas.geojson WFS:"http://geos1pn
 ```
 
 ```shell
+# Corredores biológicos
+ogr2ogr -t_srs EPSG:4326 -makevalid corredores-biologicos.geojson WFS:"http://geos1pne.sirefor.go.cr/wfs?" "PNE:corredoresbiologicos"
+```
+
+```shell
 # Desactivación del ambiente
 conda deactivate
 ```
