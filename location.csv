@@ -4,7 +4,7 @@ locationID,location,decimalLatitude,decimalLongitude
 3,AB-03 Altamira de Biolley - Sendero Parque,9.02722,-83.00779
 4,AS-01 COBAS - Cusingos,9.337946,-83.626724
 5,AS-02 COBAS - Las Nubes,9.389356,-83.599686
-6,AS-03, , ,
+6,AS-03, , 
 7,AV-02 Altamira de Volcán - La Fila,9.28128,-83.44767
 8,AV-01 Altamira de Volcán - La Perica,9.29083,-8344827
 9,AV-03 Altamira de Volcán - Aprocome,9.27714,-83.461
@@ -50,8 +50,8 @@ locationID,location,decimalLatitude,decimalLongitude
 49,UJ-02 Ujarrás - Sendero Santa María,9.26876,-83.33498
 50,UJ-03 Ujarrás - Sendero Guanacaste,9.26178,-83.28425
 51,ST-01 Saliltre - Puente,9.17707,-83.27619
-52,ST-02, , ,
-53,ST-03, , ,
-54,GB-01, , ,
-55,GB-02, , ,
-56,GB-03, , ,
+52,ST-02, , 
+53,ST-03, , 
+54,GB-01, , 
+55,GB-02, , 
+56,GB-03, , 
