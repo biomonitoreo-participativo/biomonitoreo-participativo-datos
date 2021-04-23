@@ -1,38 +1,57 @@
 locationID,location,decimalLatitude,decimalLongitude
-1,AB-01 Altamira de Biolley,-01,9.00549542, -83.0090092
-2,AV-02 Altamira de Volcán,9.28438765, -83.4516672
-3,AV-01 Altamira de Volcán,9.28729506, -83.4602387
-4,BI-01 Biolley,9.0231913, -83.0545614
-5,BI-02 Biolley,9.03876183, -83.037795
-6,BI-03 Biolley,9.03425048, -83.0413176
-7,CB-01 Cabagra,9.13279284, -83.2036868
-8,CB-03 Cabagra,9.12137815, -83.1557111
-9,CH-03 Chánguena,8.91894041, -83.2067085
-10,CH-01 Chánguena - Las Nubes,8.91168574, -83.163918
-11,CH-02 Chánguena - Pilón,8.90642376, -83.1720855
-12,AB-02 Colorado,9.01146405, -83.0230982
-13,JD-01 El Jardín,9.54753401, -83.7173239
-14,JD-02 El Jardín,9.50310902, -83.6977546
-15,JD-03 El Jardín,9.53414089, -83.7086084
-16,RC-01 Guadalajara,9.24059771, -83.3868519
-17,LU-01 La Luchita,9.09028874, -83.1265134
-18,LA-01 Los Ángeles,9.48537348, -83.8130617
-19,LA-02 Los Ángeles,9.51023701, -83.7973644
-20,LA-03 Los Ángeles,9.48754174, -83.8086589
-21,PT-01 Pittier,8.92135315, -82.9573403
-22,PT-02 Pittier,8.91132719, -82.9770522
-23,SG-01 San Gerardo,9.46448482, -83.6041212
-24,SG-02 San Gerardo,9.4728713, -83.5831321
-25,SJ-01 San Jerónimo,9.34226752, -83.5106789
-26,SJ-02 San Jerónimo,9.3643246, -83.5029965
-27,RC-03 Santa María,9.27666952, -83.3788999
-28,RC-02 Santa Rosa,9.25789457, -83.4000502
-29,SA-01 Savegre Abajo,9.43121269, -83.845292
-30,SA-02 Savegre Abajo,9.43438383, -83.8582307
-31,TC-01 Tres Colinas,9.12010704, -83.0803525
-32,TC-02 Tres Colinas,9.12272236, -83.0775314
-33,TC-03 Tres Colinas,9.11702845, -83.0788612
-34,UJ-01 Ujarrás,9.22145746, -83.3068622
-35,UJ-02 Ujarrás,9.26376984, -83.34731
-36,UJ-03 Ujarrás,9.25679632, -83.2953523
-
+1,AB-01 Altamira de Biolley  - Asoprola,9.00549542,-83.0090092
+2,AB-02 Colorado,9.011464,-83.023098
+3,AB-03 Altamira de Biolley - Sendero Parque,9.02722,-83.00779
+4,AS-01 COBAS - Cusingos,9.337946,-83.626724
+5,AS-02 COBAS - Las Nubes,9.389356,-83.599686
+6,AS-03,
+7,AV-02 Altamira de Volcán - La Fila,9.28128,-83.44767
+8,AV-01 Altamira de Volcán - La Perica,9.29083,-8344827
+9,AV-03 Altamira de Volcán - Aprocome,9.27714,-83.461
+10,BI-01 Biolley - Monterromo,9.0231913,-83.0545614
+11,BI-02 Biolley - María Isabel,9.03876183,-83.037795
+12,BI-03 Biolley - ASOMOBI,9.03425048,-83.0413176
+13,CB-01 Cabagra - ADI,9.12718,-83.19364
+14,CB-02 Cabagra - San Rafael,9.1301,-83.18709
+15,CB-03 Cabagra - Huacas,9.11506,-83.14567
+16,CH-03 Chánguena - Centro,8.91894041,-83.2067085
+17,CH-01 Chánguena - Las Nubes,8.91168574,-83.163918
+18,CH-02 Chánguena - Pilón,8.90642376,-83.1720855
+19,JD-01 El Jardín - Siberia,9.54753401,-83.7173239
+20,JD-02 El Jardín - Don Paco,9.50231,-8369360
+21,JD-03 El Jardín - Macho Mora,9.53414089,-83.7086084
+22,LU-01 La Luchita - Las Parcelas,9.09028874,-83.1265134
+23,LU-02 La Luchita - Finca HG,9.07695,-83.11941
+24,LU-03 La Luchita - Gregorio,9.07891,-83.1153
+25,LA-01 Los Ángeles - Fávalo,9.48386,-83.80848
+26,LA-02 Los Ángeles - Colorado,9.49056,-8380864
+27,LA-03 Los Ángeles - Monte Cavernas,9.51228,-83.79466
+28,PT-01 Pittier - Fila Naranjo,8.92135315,-82.9573403
+29,PT-02 Pittier - Fila Mendez,8.91132719,-82.9770522
+30,PT-03 Pittier - Choba,8.90186,-82.98048
+31,PT-04 Pittier - Palmira,8.93677,-82.89084
+32,SG-01 San Gerardo - Los Ángeles,9.4589,-83.59984
+33,SG-02 San Gerardo - Cloudbridge,9.46641,-83.57178
+34,SG-03 Herradura - Rio Blanco,9.48819,-8361203
+35,SJ-01 San Jerónimo - Kilo,9.37214,-83.49136
+36,SJ-02 San Jerónimo - ENA,9.36418,-83.49201
+37,SJ-03 San Jerónimo - Lagunillas,9.38228,-83.49946
+38,SJ-04 San Jerónimo - Acueducto,9.3429,-8348966
+39,RC-01 Guadalajara,9.23957,-83.37316
+40,RC-02 Santa Rosa - Mirador,9.26196,-83.39008
+41,RC-03 Santa María,9.28271,-83.37024
+42,SA-01 Savegre Abajo - EYA ,9.42893,-83.84698
+43,SA-02 Savegre Abajo - Víctor,9.43237,-83.85275
+44,SA-02 Savegre Abajo - Granito de Oro,9.44251,-83.84197
+45,TC-01 Tres Colinas - Huacas,9.11757,-83.07173
+46,TC-02 Tres Colinas - Colibríes,9.12039,-83.0623
+47,TC-03 Tres Colinas - Guardianes del Bosque,9.11522,-83.0694
+48,UJ-01 Ujarrás - Sendero Mayorga,9.22759,-83.30045
+49,UJ-02 Ujarrás - Sendero Santa María,9.26876,-83.33498
+50,UJ-03 Ujarrás - Sendero Guanacaste,9.26178,-83.28425
+51,ST-01 Saliltre - Puente,9.17707,-83.27619
+52,ST-02,
+53,ST-03,
+54,GB-01,
+55,GB-02,
+56,GB-03,
