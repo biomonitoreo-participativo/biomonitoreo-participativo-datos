@@ -1,4 +1,4 @@
-Brigada,Lat 1,Long 1,Sitio,Lat 2,Long 2,fecha,hora,hora2,Especie,Cantidad de registros
+Brigada,longitud01,latitud01,sitio,longitud02,latitud02,fecha,hora,hora2,especie,cantidad_individuos
 Altamira de Biolley,-83.01775,9.00634,Asoprola,-82.99962,8.98823,25 06 2020,07:38:43,7,Dasyprocta punctata,1
 Altamira de Biolley,-83.01775,9.00634,Asoprola,-82.99962,8.98823,4 07 2020,01:49:49,1,Leopardus pardalis,5
 Altamira de Biolley,-83.01775,9.00634,Finca El Campo,-83.03596,8.98831,9 06 2020,20:48:54,20,Cuniculus paca,18
